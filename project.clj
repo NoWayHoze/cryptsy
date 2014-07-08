@@ -1,4 +1,4 @@
-(defproject cryptsy "0.1.0-SNAPSHOT"
+(defproject nowayhoze.cryptsy "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
